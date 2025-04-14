@@ -1,7 +1,7 @@
-Hello 👋 and WELCOME to my GitHub Profile! 
-Please feel free to check out my projects and reach out if you have any questions or feedback.
+**Hello 👋 and WELCOME to my GitHub Profile! 
+Please feel free to check out my projects and reach out if you have any questions or feedback.**
 
-# 💻 **How am I**
+# 💻 **Who am I**
 My name is Kody Wood I am a Game Developer / Software Engineer 
 I have over 2 years of professinal experience in the video game industry having worked on
 - Barbie Dreamhouse Adventures
