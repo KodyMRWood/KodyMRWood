@@ -14,11 +14,12 @@ Other than programming and video games, I am a Home Barista ☕, I love playing 
 
 # ⚡ **Currently Working on**
 
-🎮 [Video Game React Library](https://github.com/KodyMRWood/ReactVideoGameLibrary) - This is a React Application that will uses an API to load and filter games into a library to help discover and filter through them. This porject uses React, HTML, CSS and JS.
+🎮 [Kody's Koffee](https://github.com/KodyMRWood/KodysKoffee) - This is a React Application using TypeScript, Vite, HTML and CSS that works as a menu for my at home cafe. In it you can filter out menu items and then click on them to make them popup for more information.
 
 ⌨️[CodingChallengeSolutions](https://github.com/KodyMRWood/CodingChallengeSolutions) - This is a consolidation of all the answers for Coding Challenges that I have complete over time. This includes multiple files for every language I complete them in. (C++, C#, JavaScript and Python). This project is the help me learn and hone my understanding of data structures and algorithms for multiple languages.
 
-❌🔴[UltimateTicTacToe](https://github.com/KodyMRWood/UltimateTicTacToe) - A C++ project that creates a text-based version of a a classic game every child knows. Tic Tac Toe. However, instead of your regulars 3x3 grid, each grid spot is populated with a another 3x3 grid within it. The goal of the game is you win the bigger 3x3 grid by winning the smaller 3x3 grid within. The goal of this project is to learn more about C++ and utilizing data structures and popular libraries such as iostream.
+<!--
+❌🔴[UltimateTicTacToe](https://github.com/KodyMRWood/UltimateTicTacToe) - A C++ project that creates a text-based version of a a classic game every child knows. Tic Tac Toe. However, instead of your regulars 3x3 grid, each grid spot is populated with a another 3x3 grid within it. The goal of the game is you win the bigger 3x3 grid by winning the smaller 3x3 grid within. The goal of this project is to learn more about C++ and utilizing data structures and popular libraries such as iostream. -->
 
 
 # 📫 **How to Reach Me**
